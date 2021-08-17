@@ -10,7 +10,7 @@
     <Description>dotnet automapper扩展</Description>
     <Version>1.0.0</Version>
     <RootNamespace>Lemon.AutoMapper</RootNamespace>
-    <PackageVersion>1.0.0</PackageVersion>
+    <PackageVersion>10.1.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
