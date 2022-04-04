@@ -1,19 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>huangmingji</Authors>
     <Copyright>huangmingji</Copyright>
     <Owners>huangmingji</Owners>
     <PackageReleaseNotes>dotnet automapper扩展</PackageReleaseNotes>
     <Description>dotnet automapper扩展</Description>
-    <Version>1.0.0</Version>
+    <Version>11.0.1</Version>
     <RootNamespace>Lemon.AutoMapper</RootNamespace>
-    <PackageVersion>10.1.1</PackageVersion>
+    <PackageVersion>11.0.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
   </ItemGroup>
 </Project>
